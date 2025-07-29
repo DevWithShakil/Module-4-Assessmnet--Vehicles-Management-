@@ -1,9 +1,23 @@
 [
-  {
-    "id": "v2",
-    "name": "Suzuki Gixxer",
-    "type": "Motorbike",
-    "price": 1800,
-    "image": "https://i.ibb.co/kSG5fRd/gixxer.jpg"
-  }
+    {
+        "id": "v2",
+        "name": "Suzuki Gixxer",
+        "type": "Motorbike",
+        "price": "1800",
+        "image": "https:\/\/cdn.suzukimotorcycle.co.in\/public-live\/uploads\/color-images\/original\/Gixxer-sfMet-Triton-Blue-Pearl-Glacier-White.jpg"
+    },
+    {
+        "name": "Yamaha R15M",
+        "type": "Motorbike",
+        "price": "510000",
+        "image": "https:\/\/www.yamaha-motor-india.com\/theme\/v3\/image\/r15m\/color\/gray.png",
+        "id": "6888f3837a112"
+    },
+    {
+        "name": "Kawasaki Ninja H2R",
+        "type": "Motorbike",
+        "price": "564455",
+        "image": "https:\/\/imodeler.com\/uploads\/2022\/11\/c\/chinesegeorge_221110_636ca5179f5da.jpeg",
+        "id": "6888f47dcb638"
+    }
 ]
